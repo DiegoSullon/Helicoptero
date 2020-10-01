@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <iostream>
 
+//Comentario de prueba
 GLUquadricObj *p = gluNewQuadric();
 float angHelicopteroX = 0;
 float angHelicopteroY = 0;
