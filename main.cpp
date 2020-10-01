@@ -14,6 +14,10 @@ float nivelHelicopteroZ = 0;
 
 float elicesRotacion = 0;
 
+float elicesRotacion2 = 0;
+
+
+
 
 
 void inicializar()
